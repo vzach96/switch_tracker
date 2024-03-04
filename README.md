@@ -1,0 +1,2 @@
+###Switch Tracker
+Reads multiplexed switch array into sqlite3 DB and shows change in state in terminal to monitor. Applications could be simple security system. System set to run on RaspberryPi with interchangeable switch array input to RPi GPIO pins.
